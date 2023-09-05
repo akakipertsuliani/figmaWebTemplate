@@ -1,0 +1,63 @@
+body,
+.background,
+.container,
+.content-container,
+.left-side,
+.button-container,
+.logos-container,
+.logo-container,
+.text-container-2eqs,
+.card-container,
+.card,
+.box-container,
+.right-side-container,
+.continer,
+.text-container,
+.text-container-2,
+.section4-container1,
+.container1-jq1,
+.container2-jq1,
+.child-containers,
+.section4-container2,
+.container3-jq1,
+.container3-jq2,
+.section5,
+.s53-container1,
+.s54-container-01,
+footer,
+.footer-container1,
+.footer-clild1,
+.footer-container2 {
+    display: flex;
+}
+
+.header,
+.list-container,
+.left-side,
+.logos-container,
+.logo-container,
+.text-container-2eqs,
+.card-container,
+.card,
+.container1-jq1,
+.container3-jq1,
+.container3-jq2,
+.s53-container1,
+.footer-container1,
+.footer-container2 {
+    justify-content: center;
+}
+
+body,
+.left-side,
+.text-container-2eqs,
+.card,
+.right-side-container,
+.continer,
+.text-container-2,
+.container1-jq1,
+.container3-jq1,
+.footer-clild1 {
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
